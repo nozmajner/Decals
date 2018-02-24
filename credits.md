@@ -1,2 +1,2 @@
-Credits, in alphabetical order:
-Bálint Szilárd - nozmajner
+Credits, in alphabetical order:  
+* Bálint Szilárd - nozmajner
